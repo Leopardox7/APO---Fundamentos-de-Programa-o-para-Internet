@@ -50,3 +50,6 @@ Se o MySQL do seu XAMPP tiver senha, altere `DB_PASS` em `config.php`.
 - O CSS e Bootstrap são carregados por CDN; a conexão com a internet é necessária para carregar o visual Bootstrap.
 - Se aparecer erro de conexão, confira se o MySQL está iniciado e se os dados em `config.php` correspondem à configuração local.
 - Faça backup do banco antes de apagar ou recriar tabelas.
+
+## OBSERVAÇÃO GITHUB
+- Após extrair o projeto, alterar o nome para logicontrol.
